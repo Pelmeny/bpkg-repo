@@ -3,7 +3,6 @@
     {
       "name": "neofetch",
       "version": "7.1.0",
-      "type": "binary",
       "path": "app-misc/neofetch"
     }
   ]
