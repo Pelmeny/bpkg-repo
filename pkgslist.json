@@ -3,12 +3,8 @@
     {
       "name": "example-package",
       "version": "1.0.0",
-      "description": "An example package for demonstration purposes.",
-    },
-    {
-      "name": "another-package",
-      "version": "2.3.1",
-      "description": "Another package that does something interesting.",
+      "type": "binary",
+      "path": "tested/test"
     }
   ]
 }
