@@ -9,3 +9,5 @@ make() {
   cp ./neofetch /bin/
   echo sex
 }
+prepare
+make
