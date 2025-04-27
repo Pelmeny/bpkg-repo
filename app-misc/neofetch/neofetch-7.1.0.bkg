@@ -1,7 +1,7 @@
 URL="https://codeload.github.com/dylanaraps/neofetch/zip/refs/tags/7.1.0"
 depend=["bash"]
 prepare() {
-  curl -O $URL
+  curl -sO $URL
 }
 make() {
   unzip ./7.1.0
